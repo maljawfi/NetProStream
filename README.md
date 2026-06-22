@@ -7,6 +7,10 @@
 
 ![NetPro Stream Logo](https://via.placeholder.com/150)
 
+---
+
+**[Download Latest Release](https://github.com/maljawfi/NetProStream/releases) | [Report an Issue](https://github.com/maljawfi/NetProStream/issues)**
+
 </div>
 
 ---
@@ -14,47 +18,50 @@
 ## 🇬🇧 English
 
 ### Overview
-NetPro Stream is a robust, high-performance broadcasting solution designed for local ISP networks. It combines a native Windows Launcher (WPF/.NET 8) with professional streaming technologies (Nginx/FFmpeg) to ensure low-latency and high-quality content delivery.
+NetPro Stream is a robust, high-performance broadcasting solution designed for local ISP networks. This repository serves as the official distribution hub for the latest stable releases of the NetPro Stream software.
 
 ### Key Features
-* **High Performance:** Native .NET 8 WPF architecture.
 * **ISP Optimized:** Built specifically for local network streaming environments.
 * **Custom Branding:** Easily integrate logos, news bars, and custom layouts.
 * **Automation:** Integrated management for Nginx and streaming services.
+* **Ready-to-Use:** Simple installation process for Windows environments.
+
+### How to Install
+1. Go to the **[Releases](https://github.com/maljawfi/NetProStream/releases)** page.
+2. Download the latest `.zip` or `.msi` file.
+3. Extract the contents to your preferred folder.
+4. Run `NetProStreamLauncher.exe` to start the application.
 
 ---
 
 ## 🇸🇦 العربية
 
 ### نظرة عامة
-NetPro Stream هو نظام بث قوي وعالي الأداء مصمم خصيصاً لشبكات الـ ISP المحلية. يجمع النظام بين مشغل ويندوز (WPF/.NET 8) وتقنيات بث احترافية (Nginx/FFmpeg) لضمان توصيل المحتوى بجودة عالية وتأخير منخفض جداً.
+NetPro Stream هو نظام بث قوي وعالي الأداء مصمم خصيصاً لشبكات الـ ISP المحلية. هذا المستودع هو المركز الرسمي لتحميل أحدث إصدارات برنامج NetPro Stream المستقرة.
 
 ### المميزات الرئيسية
-* **أداء عالٍ:** معمارية WPF الأصلية باستخدام .NET 8.
 * **محسن للـ ISP:** مصمم خصيصاً لبيئات البث داخل الشبكات المحلية.
 * **تخصيص العلامة التجارية:** دمج سهل للشعارات، أشرطة الأخبار، وتصاميم الواجهة.
 * **الأتمتة:** إدارة مدمجة لخدمات Nginx وخدمات البث.
+* **جاهز للتشغيل:** عملية تثبيت بسيطة ومباشرة على أنظمة ويندوز.
+
+### كيفية التثبيت
+1. انتقل إلى صفحة **[الإصدارات (Releases)](https://github.com/maljawfi/NetProStream/releases)**.
+2. قم بتحميل أحدث ملف `.zip` أو `.msi`.
+3. قم بفك الضغط في المجلد الذي تريده.
+4. قم بتشغيل `NetProStreamLauncher.exe` لبدء التطبيق.
 
 ---
 
-## 🛠 Tech Stack | التقنيات المستخدمة
+## 👤 About | حول المطور
 
-| Component | Technology |
-| :--- | :--- |
-| **Desktop Engine** | .NET 8 (WPF) |
-| **Frontend Integration** | WebView2 / Next.js |
-| **Streaming Engine** | Nginx & FFmpeg |
-| **Language** | C# |
+Developed by **4youcode Solutions** | تطوير بواسطة **4youcode Solutions**
+
+* **Developer:** [Mohammed Naji Al-Jawfi](https://github.com/maljawfi)
+* **Location:** Taizz, Yemen
 
 ---
 
-## 🚀 Getting Started | البدء في الاستخدام
-
-### Prerequisites | المتطلبات
-* .NET 8 SDK installed.
-* Visual Studio 2022.
-
-### Installation | التثبيت
-1. Clone the repository:
-```bash
-   git clone [https://github.com/maljawfi/NetProStream.git](https://github.com/maljawfi/NetProStream.git)
+## 📄 License | الترخيص
+This software is provided "as-is". Please contact the developer for usage rights and support.  
+يتم توفير هذا البرنامج "كما هو". يرجى التواصل مع المطور للحصول على حقوق الاستخدام والدعم.

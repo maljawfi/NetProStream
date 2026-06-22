@@ -5,7 +5,7 @@
 **Professional Broadcasting Suite for Local ISP Networks**  
 **نظام البث الاحترافي لشبكات الـ ISP المحلية**
 
-![NetPro Stream Logo](https://via.placeholder.com/150)
+![NetPro Stream Logo]([https://via.placeholder.com/150](https://github.com/maljawfi/NetProStream/blob/main/logo.ico))
 
 ---
 

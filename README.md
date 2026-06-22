@@ -1,1 +1,60 @@
-NetPro Stream 🚀Professional Broadcasting Suite for Local ISP NetworksNetPro Stream هو حل متكامل لبث المحتوى الرقمي والفعاليات الرياضية عبر شبكات الـ ISP المحلية. تم تصميمه لتحقيق أقصى أداء مع واجهة استخدام تفاعلية، ويدعم التخصيص الكامل للعلامة التجارية وأشرطة الأخبار (News Bars).📋 نظرة عامةتم تطوير NetPro Stream لتقديم تجربة بث استثنائية داخل الشبكات المحلية، مع التركيز على تقليل التأخير (Latency) وتوفير تجربة مستخدم سلسة. النظام يعتمد على محرك تشغيل (Launcher) عالي الأداء مبني بـ WPF للتكامل مع بيئة ويندوز، وخادم بث Nginx لضمان استقرار البث.🛠 المميزات التقنيةالميزةالوصف التقنيHigh Performanceمحرك تشغيل native مبني بـ .NET 8 (WPF)ISP Optimizedمصمم خصيصاً لشبكات ISP لضمان تدفق البيانات محلياًCustom Brandingدعم كامل لإضافة الشعارات وأشرطة الأخبار (News Bars)Integrated Engineإدارة تلقائية لخوادم Nginx و FFmpegModern Frontendواجهة تفاعلية مع دمج WebView2 لعرض المحتوى💻 التقنيات المستخدمة (Tech Stack)Desktop Core: .NET 8, WPF, C#.Web Integration: Next.js (App Router).Streaming Engine: Nginx, FFmpeg.Architecture: Modular Plugin-based design.🚀 التشغيل السريعقم بتحميل أحدث إصدار من Releases.تأكد من وجود مجلد nginx في مسار التطبيق الرئيسي.قم بتشغيل NetProStreamLauncher.exe.🏗 التطوير (Development)للمساهمة في المشروع أو بناء نسختك الخاصة:تأكد من تثبيت .NET 8 SDK.افتح المشروع باستخدام Visual Studio 2022.قم بعمل NuGet Restore للمكتبات المطلوبة.قم ببناء المشروع (Build) باستخدام Ctrl + Shift + B.👤 عن المطورمشروع تطويري من 4youcode Solutions.مطور رئيسي: Mohammed Naji Al-Jawfiالموقع: Taizz, Yemen.هذا المشروع مخصص للاستخدام المهني في بيئات الشبكات المحلية.
+<div align="center">
+
+# NetPro Stream 🚀
+
+**Professional Broadcasting Suite for Local ISP Networks**  
+**نظام البث الاحترافي لشبكات الـ ISP المحلية**
+
+![NetPro Stream Logo](https://via.placeholder.com/150)
+
+</div>
+
+---
+
+## 🇬🇧 English
+
+### Overview
+NetPro Stream is a robust, high-performance broadcasting solution designed for local ISP networks. It combines a native Windows Launcher (WPF/.NET 8) with professional streaming technologies (Nginx/FFmpeg) to ensure low-latency and high-quality content delivery.
+
+### Key Features
+* **High Performance:** Native .NET 8 WPF architecture.
+* **ISP Optimized:** Built specifically for local network streaming environments.
+* **Custom Branding:** Easily integrate logos, news bars, and custom layouts.
+* **Automation:** Integrated management for Nginx and streaming services.
+
+---
+
+## 🇸🇦 العربية
+
+### نظرة عامة
+NetPro Stream هو نظام بث قوي وعالي الأداء مصمم خصيصاً لشبكات الـ ISP المحلية. يجمع النظام بين مشغل ويندوز (WPF/.NET 8) وتقنيات بث احترافية (Nginx/FFmpeg) لضمان توصيل المحتوى بجودة عالية وتأخير منخفض جداً.
+
+### المميزات الرئيسية
+* **أداء عالٍ:** معمارية WPF الأصلية باستخدام .NET 8.
+* **محسن للـ ISP:** مصمم خصيصاً لبيئات البث داخل الشبكات المحلية.
+* **تخصيص العلامة التجارية:** دمج سهل للشعارات، أشرطة الأخبار، وتصاميم الواجهة.
+* **الأتمتة:** إدارة مدمجة لخدمات Nginx وخدمات البث.
+
+---
+
+## 🛠 Tech Stack | التقنيات المستخدمة
+
+| Component | Technology |
+| :--- | :--- |
+| **Desktop Engine** | .NET 8 (WPF) |
+| **Frontend Integration** | WebView2 / Next.js |
+| **Streaming Engine** | Nginx & FFmpeg |
+| **Language** | C# |
+
+---
+
+## 🚀 Getting Started | البدء في الاستخدام
+
+### Prerequisites | المتطلبات
+* .NET 8 SDK installed.
+* Visual Studio 2022.
+
+### Installation | التثبيت
+1. Clone the repository:
+```bash
+   git clone [https://github.com/maljawfi/NetProStream.git](https://github.com/maljawfi/NetProStream.git)

@@ -5,7 +5,7 @@
 **Enterprise IPTV & Streaming Platform for Local ISP Networks**  
 **منصة البث والإدارة التلفزيونية المؤسسية لشبكات الـ ISP المحلية**
 
-![NetProStreamX Logo](https://github.com/maljawfi/NetProStream/blob/main/logo.ico)
+![NetProStreamX Logo](https://raw.githubusercontent.com/maljawfi/NetProStreamX/main/favicon.ico)
 
 ---
 

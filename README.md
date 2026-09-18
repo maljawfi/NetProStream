@@ -5,7 +5,7 @@
 **Enterprise IPTV & Streaming Platform for Local ISP Networks**  
 **منصة البث والإدارة التلفزيونية المؤسسية لشبكات الـ ISP المحلية**
 
-![NetProStreamX Logo](https://github.com/maljawfi/NetProStreamX/blob/main/favicon.ico)
+![NetProStreamX Logo](https://raw.githubusercontent.com/maljawfi/NetProStreamX/main/favicon.ico)
 
 ---
 
@@ -52,6 +52,13 @@
 2. قم بتحميل ملف التثبيت التنفيذي: `NetProStreamX-Manager-Setup.exe`.
 3. قم بتشغيل المثبت (يقوم تلقائياً بالتحقق من العمليات وإدارتها بأمان).
 4. ابدأ تشغيل **NetProStreamX Manager** من سطح المكتب أو قائمة ابدأ.
+
+---
+### 📸 Screenshots | لقطات الشاشة
+
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Screen 1](https://raw.githubusercontent.com/maljawfi/NetProStreamX/main/Screenshot/1.png) | ![Screen 2](https://raw.githubusercontent.com/maljawfi/NetProStreamX/main/Screenshot/2.png) | ![Screen 3](https://raw.githubusercontent.com/maljawfi/NetProStreamX/main/Screenshot/3.png) | ![Screen 4](https://raw.githubusercontent.com/maljawfi/NetProStreamX/main/Screenshot/4.png) | ![Screen 5](https://raw.githubusercontent.com/maljawfi/NetProStreamX/main/Screenshot/5.png) |
 
 ---
 

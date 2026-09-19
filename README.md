@@ -18,11 +18,11 @@
 ## 🇬🇧 English
 
 ### Overview
-**NetProStreamX** is an enterprise-grade, high-performance IPTV and streaming management platform engineered specifically for local ISP networks. It combines a secure Tauri desktop manager, a blazing-fast Rust streaming core, a standalone Next.js web backend, and a fully portable architecture into a single seamless installation package.
+**NetProStreamX** is an enterprise-grade, high-performance IPTV and streaming management platform engineered specifically for local ISP networks. It combines a secure Tauri desktop manager, a blazing-fast streaming core, a standalone Next.js web backend, and a fully portable architecture into a single seamless installation package.
 
 ### Key Features
 * **Enterprise Portable Architecture:** Fully self-contained deployment featuring an embedded portable Node.js runtime and Next.js standalone server—zero external dependencies required.
-* **High-Performance Rust Engine:** Powered by a native Rust backend (`stream-engine`) integrated with FFmpeg for ultra-low latency media processing and stream distribution.
+* **High-Performance Engine:** Powered by a native backend (`stream-engine`) integrated with FFmpeg for ultra-low latency media processing and stream distribution.
 * **Advanced IPTV Management:** Complete control over live channels, stream routing, client access, and network bandwidth allocation.
 * **Automated Firewall Integration:** Automatically configures Windows Firewall rules for management ports (`3001`, `3004`) and live streaming (`1935 TCP / RTMP`).
 * **Robust Security & Permissions:** Designed with enterprise isolation standards, granting full data accessibility (`users-full`) while strictly excluding development and database artifacts.
@@ -38,11 +38,11 @@
 ## 🇸🇦 العربية
 
 ### نظرة عامة
-**NetProStreamX** هو نظام مؤسسي متكامل وعالي الأداء لإدارة وبث القنوات التلفزيونية (IPTV) مصمم خصيصاً لشبكات الـ ISP المحلية. يدمج النظام بين تطبيق إدارة مكتبي عالي الأمان (Tauri)، محرك بث سريع مكتوب بلغة Rust، خادم ويب Next.js مستقل، وبيئة تشغيل محمولة بالكامل ضمن حزمة تثبيت واحدة وسلسة.
+**NetProStreamX** هو نظام مؤسسي متكامل وعالي الأداء لإدارة وبث القنوات التلفزيونية (IPTV) مصمم خصيصاً لشبكات الـ ISP المحلية. يدمج النظام بين تطبيق إدارة مكتبي عالي الأمان (Tauri)، محرك بث سريع ، خادم ويب Next.js مستقل، وبيئة تشغيل محمولة بالكامل ضمن حزمة تثبيت واحدة وسلسة.
 
 ### المميزات الرئيسية
 * **هندسة محمولة مستقلة (Portable):** بيئة تشغيل ذاتية بالكامل تتضمن بيئة Node.js مدمجة وخادم Next.js Standalone، دون الحاجة لأي برمجيات مسبقة على الجهاز.
-* **محرك Rust فائق الأداء:** نواة تشغيل وبث مكتوبة بلغة Rust مع دمج أدوات FFmpeg لمعالجة وسائط الفيديو والبث المباشر بأعلى كفاءة وأقل استهلاك للموارد.
+* **محرك فائق الأداء:** نواة تشغيل وبث مع دمج أدوات FFmpeg لمعالجة وسائط الفيديو والبث المباشر بأعلى كفاءة وأقل استهلاك للموارد.
 * **إدارة متقدمة للبث والشبكات:** تحكم كامل في القنوات، توجيه التدفقات، إدارة المشتركين، وجدولة البث داخل الشبكة المحلية.
 * **تكامل آلي مع جدار الحماية:** إعداد وتكوين قواعد جدار حماية ويندوز تلقائياً لمنافذ الإدارة (`3001`, `3004`) ومنفذ البث الحي **`1935 TCP / RTMP`**.
 * **معايير أمان مؤسسية:** حماية وصلاحيات كاملة لمجلدات البيانات والسجلات مع استبعاد تام لملفات التطوير وقواعد البيانات المؤقتة.
